@@ -1,6 +1,9 @@
 #Weekly Test 5
 
 ![Screenshot of the application](Screenshot1.png)
+
+
+![Screenshot of the application](Screenshot (106)-2.png)
 <br>
 <h2>html tags used in this part are</h2>
 <ul>
