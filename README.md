@@ -1,6 +1,6 @@
 #Weekly Test 5
 
-![Screenshot of the application](Screenshot1.png)
+![Screenshot of the application]([Screenshot1.png](https://raw.githubusercontent.com/Trisha-Shukla/Weekly-test-5/1e7a9f4e0cb362f4f622a30d991389c3e377902d/Screenshot1.png))
 
 
 ![Screenshot of the application](Screenshot (106)-2.png)
