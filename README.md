@@ -1,5 +1,5 @@
 #Weekly Test 5
-![Screenshot of the application](images/screenshot1.png)
+![Screenshot of the application](images/Screenshot (106).png)
 ##html tags used in this part are
 <ul>
   <li>header</li>
