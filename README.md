@@ -4,7 +4,7 @@
 
 
 ![Screenshot of the application](Screenshot1.png)
-![Screenshot of the application](Screenshot(107).png)
+![Screenshot of the application](Screenshot5.png)
 
 <br>
 <h2>html tags used in this part are</h2>
