@@ -11,7 +11,7 @@
   <li>span</li>
   <li>p</li>
   <li>select</li>
-  <li>option</li>
+  <li>option</li></ul>
   <br>
   <h2>CSS used here:</h2>
   
@@ -25,4 +25,4 @@
   
   
   
-</ul>
+
