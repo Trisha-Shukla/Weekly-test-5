@@ -14,8 +14,11 @@
   <li>option</li>
   <br>
   <h2>CSS used here:</h2>
-  ##section-2
+  
   header-background-color,width,height,max-width,cursor,color,display(flex),justify-content,align-items
+  
+  ##section-2
+  
   ![Screenshot of the application]([Screenshot1.png](https://raw.githubusercontent.com/Trisha-Shukla/Weekly-test-5/d7c76b4a4c631dff37759f774344f99c9061f9ae/Screenshot%20(106)-2.png))
 
   
